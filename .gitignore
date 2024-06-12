@@ -1,4 +1,5 @@
-/target
+target
+examples/linux/target
 Cargo.lock
 .idea
 .vscode
