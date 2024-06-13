@@ -16,6 +16,7 @@ repository = "https://github.com/dprotsiv/dps310-rs"
 
 [dependencies]
 embedded-hal = "1.0.0"
+esp-idf-svc = { version = "0.48", default-features = false }
 
 [dev-dependencies]
 #cortex-m = "0.7"
